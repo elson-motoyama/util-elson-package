@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "name": "util-elson-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elson-motoyama/util-elson-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elson-motoyama/util-elson-package/issues"
+  },
+  "homepage": "https://github.com/elson-motoyama/util-elson-package#readme",
+  "description": "",
+  "files": ["lib/**/*"]
+}
